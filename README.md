@@ -1,5 +1,9 @@
 # Custom-Screamer-Creator
+
+To download, go to Releases - https://github.com/Nikanlev/Custom-Screamer-Creator/releases
+
 Create your own screamer easily and simply
+
 -=EN=-
 1. Controls:
 Movement - WASD
