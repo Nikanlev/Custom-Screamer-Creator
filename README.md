@@ -36,8 +36,8 @@ The sound can be of any length and size; it will play only once.
    The sound can be of any length and size; it will play on a loop until we touch the box(3).
 
 -=SETTINGS SECTION=-
-1.  Background color: Write the background color in English in the bg_color.txt file. If the name contains spaces, replace them with "_".
-    Examples - white | light_gray
+1.  Background color: Write the background color in English in the bg_color.txt file.
+    Examples - white | light gray
 
 2.  Background music On/Off: In the bg_music_onoff.txt file, write 0 - to turn off the background music, 1 - to turn on the background music.
 
@@ -91,7 +91,7 @@ LShift - ускорить ходьбу в 2 раза
 Звук может быть любой длины и размера, он проигрывается на повторе, пока мы не коснёмся коробки(3)
 
 -=РАЗДЕЛ С НАСТРОЙКАМИ=-
-1. Цвет фона: напишите цвет фона на английском в файле bg_color.txt, если в названии есть пробелы, то вместо них напишите "_"
+1. Цвет фона: напишите цвет фона на английском в файле bg_color.txt,
 Примеры - white | light_gray
 
 2. Включение/Выключение фоновой музыке: в файле bg_music_onoff.txt напишите 0 - чтобы выключить фоновую музыку, 1 - чтобы включить фоновую музыку
